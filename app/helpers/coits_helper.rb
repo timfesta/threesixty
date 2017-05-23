@@ -1,0 +1,2 @@
+module CoitsHelper
+end
