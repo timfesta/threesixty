@@ -1,9 +1,7 @@
 Rails.application.routes.draw do
-  
-  get 'coit' => 'coits#index'
-  resources :coits
 
   get 'goldengate' => 'franciscos#goldengate'
+  get 'coit' => 'franciscos#coit'
   resources :franciscos
 
   root 'statics#home'
