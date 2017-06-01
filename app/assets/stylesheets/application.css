@@ -16,3 +16,10 @@
  .navbar {
 	margin-bottom: 0px;
 }
+
+.home {
+	color: #FFFFFF;
+	font-size: 30px;
+	font-weight: 900;
+	line-height: 48px;
+}
