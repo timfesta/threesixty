@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  get 'goldengate' => 'franciscos#goldengate'
+  get 'transamerica' => 'franciscos#transamerica'
   get 'coit' => 'franciscos#coit'
   get 'ferrybuilding' => 'franciscos#ferrybuilding'
   get 'fivefivefive' => 'franciscos#fivefivefive'

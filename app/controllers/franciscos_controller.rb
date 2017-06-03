@@ -1,9 +1,5 @@
 class FranciscosController < ApplicationController
 
-	def goldengate
-		
-	end
-
 	def coit
 		
 	end
@@ -13,6 +9,10 @@ class FranciscosController < ApplicationController
 	end
 
 	def ferrybuilding
+		
+	end
+
+	def transamerica
 		
 	end
 	
