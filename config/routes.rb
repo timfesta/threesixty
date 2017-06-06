@@ -8,6 +8,7 @@ Rails.application.routes.draw do
   get 'att' => 'franciscos#att'
   get 'baybridge' => 'franciscos#baybridge'
   get 'sutro' => 'franciscos#sutro'
+  get 'sf' => 'franciscos#sf'
   resources :franciscos
 
   root 'statics#home'
