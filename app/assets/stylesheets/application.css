@@ -28,3 +28,11 @@
 	padding-left: 450px;
 	padding-top: 25px;
 }
+
+#navbar-container {
+	padding-left: 0px;
+}
+
+#bs-example-navbar-collapse-1 {
+	padding-left: 0px;
+}
